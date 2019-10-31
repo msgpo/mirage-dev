@@ -10,3 +10,4 @@ env:
     - OCAML_VERSION=4.09 MODE=unix
     - OCAML_VERSION=4.08 MODE=hvt
     - OCAML_VERSION=4.07 MODE=xen
+    - OCAML_VERSION=4.06 MODE=qubes
