@@ -1,0 +1,1 @@
+src: "git+https://github.com/mato/mirage-bootvar-xen.git#xen-pvh-via-solo5"
