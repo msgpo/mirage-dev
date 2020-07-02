@@ -1,1 +1,1 @@
-src: "git+https://github.com/mato/mirage-console-xen.git#xen-pvh-via-solo5"
+src: "git+https://github.com/mato/mirage-console.git#xen-pvh-via-solo5"
