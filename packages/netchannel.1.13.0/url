@@ -1,0 +1,1 @@
+src: "git+https://github.com/mato/mirage-net-xen.git#xen-pvh-via-solo5"

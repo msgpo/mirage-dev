@@ -23,7 +23,6 @@ depends: [
   "conf-pkg-config"
   "lwt-dllist"
   "mirage-profile" {>= "0.3"}
-  "io-page-xen" {>= "2.0.0"}
   "mirage-runtime" {>= "3.7.0"}
   "logs"
   "fmt"

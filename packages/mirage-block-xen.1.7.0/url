@@ -1,0 +1,1 @@
+src: "git+https://github.com/mato/mirage-block-xen.git#xen-pvh-via-solo5"
