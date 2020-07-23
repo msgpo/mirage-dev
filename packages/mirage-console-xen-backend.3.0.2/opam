@@ -14,7 +14,6 @@ depends: [
   "mirage-xen" {>= "6.0.0"}
   "lwt" {>= "4.0.0"}
   "xenstore"
-  "xen-evtchn"
   "shared-memory-ring-lwt"
 ]
 build: [
