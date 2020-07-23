@@ -1,0 +1,1 @@
+src: "git+https://github.com/mato/ocaml-vchan.git#xen-pvh-via-solo5"
